@@ -9,3 +9,5 @@ For useful references of the method, one can check at:
 https://en.wikipedia.org/wiki/Background_subtraction
 
 http://www.cse.psu.edu/~rtc12/CSE586Spring2010/papers/emBGsubtractAboutSandG.pdf
+
+The result pictures are just me shaking my head in front the camera.
